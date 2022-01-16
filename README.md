@@ -13,6 +13,7 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br>
 </div>
+<br>
   
 - Tenho interesse na área de segurança da informação.
 - Estou me aperfeiçoando para encontrar um emprego.
