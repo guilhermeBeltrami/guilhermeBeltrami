@@ -1,4 +1,4 @@
-##Olá eu sou o Guilherme Beltrami, tenho 17 anos e sou Técnico de Informática recém formado pelo Colégio Politécnico Bento Quirino!
+##Olá eu sou o Guilherme Beltrami, tenho 18 anos e sou Técnico de Informática formado pelo Colégio Politécnico Bento Quirino!
 
 <div align="center">
   <a href="https://github.com/guilhermeBeltrami">
